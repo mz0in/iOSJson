@@ -1,0 +1,21 @@
+/* 
+  Localizable.strings
+  iOSJson
+
+  Created by Pablo Eduardo Ojeda Vasco on 20/03/14.
+  Copyright (c) 2014 SpeakinBytes. All rights reserved.
+*/
+
+"ROOT_VIEW_LB_TITLE"="@pbojeda";
+"ROOT_VIEW_LB_PRACTICE"="Practice 2";
+"ROOT_VIEW_LB_NAME"="Pablo Ojeda";
+"ROOT_VIEW_TXT_INFO"="In this second practice...";
+"ROOT_VIEW_BTN_GO_NSRLCON"="NSURLCon";
+"ROOT_VIEW_BTN_GO_ASIHTTP"="ASIHTTPReq";
+"ROOT_VIEW_BTN_GO_JSON"="MyOwnJson";
+"ROOT_VIEW_BTN_GO_WEBVIEW"="WebView";
+"ROOT_VIEW_BTN_GO_VIDEOVIEW"="VideoView";
+
+/* Web View */
+"WEB_VIEW_TITLE"="WebView";
+"WEB_VIEW_BN_LOAD"="Loading";
